@@ -1,5 +1,7 @@
 # Data-Augmentation-Using-Generative-Adversarial-Networks
 
+[![Project Status: Active – Initial development is in progress, but there has not yet been a stable, usable release suitable for the public.](https://www.repostatus.org/badges/latest/wip.svg)](https://www.repostatus.org/#wip)
+
 This repository is for the project "Data Augmentation Using Generative Adversarial Networks" from the course Deep Machine Learning (SSY340) at the Chalmers University of Technology.
 
 ## Requirements
